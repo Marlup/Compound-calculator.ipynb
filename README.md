@@ -1,2 +1,2 @@
 # Compound-calculator.ipynb
-Calculator of interest compound return from investment
+Calculator of compound interest return from investment
